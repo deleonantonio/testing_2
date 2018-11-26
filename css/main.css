@@ -1,0 +1,51 @@
+/* CSS Rules About me website */
+
+body {
+  background-color: #abbed1;
+  font-family: verdana;
+}
+
+h1 {
+  left: 50%;
+  border: 5px solid #e5d9c0;
+  text-align: center;
+}
+
+button {
+  font-family : inherit;
+  font-size   : 100%;
+}
+
+#selfphoto, input {
+  display: block;
+  margin-left: auto; 
+  margin-right: auto;
+  width: 100%;
+}
+
+section {
+  margin: 0 auto;
+  width: 600px;
+  background-color: #FFF;
+  padding: 2em;
+  border: 5px solid #CCC;
+  border-radius: 1em;
+}
+
+footer {
+  font-size: small;
+  text-align: center;
+}
+
+#quote {
+  font-style: italic;
+}
+
+#circlebtn {
+  width: 10%;
+  height: 10%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
